@@ -1,0 +1,55 @@
+{
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Spring Boot-ConfigserverApplication<com.naim-configserver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.naim.configserver.ConfigserverApplication",
+            "projectName": "com.naim-configserver",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ConfigserverApplication<com.naim-configserver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.naim.configserver.ConfigserverApplication",
+            "projectName": "com.naim-configserver",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DiscoveryserviceApplication<com.naim-discoveryservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.naim.discoveryservice.DiscoveryserviceApplication",
+            "projectName": "com.naim-discoveryservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GatewayserviceApplication<com.naim-gatewayservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.naim.gatewayservice.GatewayserviceApplication",
+            "projectName": "com.naim-gatewayservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PostserviceApplication<com.naim-postservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.naim.postservice.PostserviceApplication",
+            "projectName": "com.naim-postservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
